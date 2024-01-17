@@ -9,3 +9,4 @@ of our textbook, and the many videos that are posted in our first module.
 Develop a study habit of setting aside time to code. Do not wait until the last minute 
 to try and get all your programs done!
 
+added two files
